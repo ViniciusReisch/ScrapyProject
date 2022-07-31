@@ -1,7 +1,7 @@
 import scrapy
 
 class BuscapeSpider(scrapy.Spider):
-    name = 'buscape'
+    name = 'bs'
     start_urls = ["https://www.buscape.com.br/console-de-video-game/console-playstation-5-edicao-digital-sony-4k?_lc=88&searchterm=ps"]
 
     def parse(self, response):
