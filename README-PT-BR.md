@@ -1,6 +1,6 @@
 # ScrapyProject PT-BR
 
-[README in EN-US](https://github.com/Flyinng/Termo/blob/main/README.md)
+[README in EN-US](https://github.com/Flyinng/ScrapyProject/blob/main/README.md)
 
 ## Trabalho feito em equipe ultilizando o framework Scrapy
 
