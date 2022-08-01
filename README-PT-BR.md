@@ -4,6 +4,8 @@
 
 ## Trabalho feito em equipe ultilizando o framework Scrapy
 
+Scrapy é um framework de web-crawling gratuito e código aberto desenvolvido em ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
 ### Funcionalidades do programa:
 
 ##### - Reunir dados (preço, data da realização do web-crawling, quantidade de parcelas)
@@ -22,4 +24,4 @@
 
 ##### - Isso vai reunir todos os dados do produto em respectivas lojas, para obter o menor valor execute o arquivo ``refactor.py``.
 <br>
-<h4> 📜Project developed in the Entra21 Python Class</h4>
+📜Project developed in the <a href="https://www.entra21.com.br/">Entra21</a> Python Class
